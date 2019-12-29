@@ -1,0 +1,46 @@
+img {
+    height: 200px;
+    width: 290px;
+}
+
+nav {
+    position: sticky;
+}
+
+.navbar {
+    background-color: #b3ffff;
+    /* border: 1px ridge #00b3b3 ; */
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(175, 153, 255));
+
+}
+
+
+#text {
+    text-align: center;
+    height: 50px;
+    padding-top: 90px;
+    /* font-family: "Lucida Console", Monaco, monospace; */
+    font-family: "Graphik Meetup",monospace  ;
+    font-size: 25px;
+    font-weight: lighter;
+    
+}
+#description p {
+    
+    margin-left: 26px;
+    text-align: center;
+    font-family: "Graphik Meetup",monospace  ;
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+#text .col-md-12 {
+    padding-top: 10px;
+    text-align: center;
+    background-color:#b3ffff ;
+    font-weight: bold;
+}
+#text button {
+    margin-top:20px ;
+    float: right;
+}
