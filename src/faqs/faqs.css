@@ -1,0 +1,10 @@
+nav {
+    position: sticky;
+}
+
+.navbar {
+    background-color: #b3ffff;
+    /* border: 1px ridge #00b3b3 ; */
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(175, 153, 255));
+
+}
