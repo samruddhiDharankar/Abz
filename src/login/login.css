@@ -10,8 +10,11 @@ nav {
 }
 
 #loginForm {
+    padding-top: 120px;
     margin-top: 20px;
     text-align: center;
+    margin: 0 auto; 
+    width:250px;
 }
 /* .form-group {
     text-align: left;
@@ -19,6 +22,7 @@ nav {
 } */
 input[type="text"],
 input[type="password"] {
+    margin-top: 30px;
     display: block;
     box-sizing: border-box;
     margin-bottom: 20px;
@@ -71,6 +75,7 @@ input[type="submit"]:active {
 
 
 h1 {
+    padding-bottom: 20px;
     margin-top: 20px;
     text-align: center;
     font-size: 28px;

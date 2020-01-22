@@ -1,0 +1,30 @@
+nav {
+    position: sticky;
+}
+
+.navbar {
+    background-color: #b3ffff;
+    /* border: 1px ridge #00b3b3 ; */
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(175, 153, 255));
+
+}
+
+img {
+    margin-top: 2px;
+    height: 500px;
+    width: 800px;
+    border-radius: 20px;
+    margin-left: 7px;
+}
+h2 p {
+    margin-right: 100px;
+    font-size: larger;
+    font-weight: bolder;
+    font-family: "Graphik Meetup",monospace  ;
+    margin-bottom: 20px;
+}
+p {
+    font-size: large;
+    font-family: "Graphik Meetup",monospace  ;
+
+}
